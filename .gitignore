@@ -1,0 +1,12 @@
+
+# python
+__pycache__
+*.pyc
+.ipynb_checkpoints/
+
+# OSX
+
+.DS_Store
+
+# ok db files
+.ok_*
