@@ -30,15 +30,15 @@ By the time you finish this class, you will be able to:
 ## Materials
 
 * The projects are in numbered order:
-[Getting Started](./projects/00.Getting_Started)
-[Traffic Stops](./projects/01.Traffic_Stops)
-[Images](./projects/02.Images)
-[Audio](./projects/03.Audio)
-[Unstructured Text](./projects/04.Text)
-[AB Testing](./projects/05.AB_Testing)
-[Prediction](./projects/06.Prediction)
+0. [Getting Started](./projects/00.Getting_Started)
+1. [Traffic Stops](./projects/01.Traffic_Stops)
+2. [Images](./projects/02.Images)
+3. [Audio](./projects/03.Audio)
+4. [Unstructured Text](./projects/04.Text)
+5. [AB Testing](./projects/05.AB_Testing)
+6. [Prediction](./projects/06.Prediction)
 
 * There are loosely related readings scheduled concurrently with the
   projects, intended to get you thinking about larger issues in data
-  science.
+  science. These are found in the `readings.md` file in each project.
 
