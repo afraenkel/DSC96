@@ -29,7 +29,9 @@ By the time you finish this class, you will be able to:
 
 ## Materials
 
-* The projects are in numbered order:
+### Projects 
+
+The projects are in numbered order:
 0. [Getting Started](./projects/00.Getting_Started)
 1. [Traffic Stops](./projects/01.Traffic_Stops)
 2. [Images](./projects/02.Images)
@@ -38,7 +40,9 @@ By the time you finish this class, you will be able to:
 5. [AB Testing](./projects/05.AB_Testing)
 6. [Prediction](./projects/06.Prediction)
 
-* There are loosely related readings scheduled concurrently with the
-  projects, intended to get you thinking about larger issues in data
-  science. These are found in the `readings.md` file in each project.
+### Readings
+
+There are loosely related readings scheduled concurrently with the
+projects, intended to get you thinking about larger issues in data
+science. These are found in the `readings.md` file in each project.
 
