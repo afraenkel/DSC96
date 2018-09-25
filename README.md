@@ -32,6 +32,7 @@ By the time you finish this class, you will be able to:
 ### Projects 
 
 The projects are in numbered order:
+
 0. [Getting Started](./projects/00.Getting_Started)
 1. [Traffic Stops](./projects/01.Traffic_Stops)
 2. [Images](./projects/02.Images)
