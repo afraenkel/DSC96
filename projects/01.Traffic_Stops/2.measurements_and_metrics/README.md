@@ -13,3 +13,7 @@ Using the SDPD data from last week as the base, we will join on data about race 
 A big part of data science is using math and data to answer questions.  But how do you translate questions into equations?
 
 For example, we might ask if traffic enforcement is fair with respect to gender.  An initial examination shows that men are pulled over twice as often as women.  But do they drive twice as much?  Twice as recklessly?  What data could we use to get at the big picture?
+
+## Related Readings
+
+See [readings](readings.md)

@@ -10,3 +10,7 @@ The two big themes this week are
 ## Links
 
 I found making a map from the .geojson file confusing, and [this link](https://onlinehelp.tableau.com/current/pro/desktop/en-us/maps_shapefiles.html#Build) was very helpful.
+
+## Related Readings
+
+See [readings](readings.md)

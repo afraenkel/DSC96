@@ -47,3 +47,29 @@ There are loosely related readings scheduled concurrently with the
 projects, intended to get you thinking about larger issues in data
 science. These are found in the `readings.md` file in each project.
 
+### Possible Schedule
+
+| Section            | Week | Topic                 | Data               | Tools             | Day | Reading |
+|--------------------+------+-----------------------+--------------------+-------------------+-----+---------|
+| What happened?     |    1 | Answers on Day 1      | Lobbying, Titanic  | Tableau           |   1 |         |
+|                    |      |                       |                    |                   |   2 |         |
+|                    |    2 | Data is messy         | SDPD Traffic Stops |                   |   3 |         |
+|                    |      |                       |                    |                   |   4 |         |
+|                    |    3 | Questions to metrics  |                    |                   |   5 |         |
+|                    |      |                       |                    |                   |   6 |         |
+|                    |    4 | Communicating Results |                    |                   |   7 |         |
+|                    |      |                       |                    |                   |   8 |         |
+| Why did it happen? |    5 | Images                | bmp, jpg           | pillow            |   9 |         |
+|                    |      |                       |                    |                   |  10 |         |
+|                    |    6 | Audio                 | wav                | google api, scipy |  11 |         |
+|                    |      |                       |                    |                   |  12 |         |
+|                    |    7 | Unstructured Text     | UCSD tweets        | nltk              |  13 |         |
+|                    |      |                       |                    |                   |  14 |         |
+|                    |    8 | A/B Testing           | MTurk              | python            |  15 |         |
+|                    |      |                       |                    |                   |  16 |         |
+|                    |      |                       |                    |                   |     |         |
+| What will happen?  |    9 | Prediction            | SDPD Traffic Stops | scikit learn      |  17 |         |
+|                    |      |                       |                    |                   |  18 |         |
+|                    |   10 |                       |                    |                   |  19 |         |
+|                    |      |                       |                    |                   |  20 |         |
+|                    |      |                       |                    |                   |     |         |

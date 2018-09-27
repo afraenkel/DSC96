@@ -8,7 +8,7 @@ data. A partial list of these publications are:
 * [The Upshot](https://www.nytimes.com/section/upshot)
 * [ProPublica Nerd Blog](https://www.propublica.org/nerds)
 
-## Readings for the week
+# Readings for the week
 
 1. [Bussed out. How America Moves its homeless](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study)
 
@@ -31,3 +31,7 @@ learning was merely the start of the investigation.
 This Financial Times article visually describes the French election
 results along a number of commonly used dimensions: geography, age,
 income level, education level, and passing time.
+
+4. Eremenko Chapter 1
+
+Thinking about all the ways that data is generated.
