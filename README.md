@@ -5,6 +5,10 @@ Rough Draft. Created with / Forked from Colin Jemmott.
 
 ---
 
+## Current Course
+
+[Current course website](https://sites.google.com/eng.ucsd.edu/cse-91-fall-2018-c00/syllabus?authuser=0)
+
 ## Description
 
 This sequence of projects familiarizes the you with the process of
