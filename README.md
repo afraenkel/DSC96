@@ -58,29 +58,7 @@ of class, but are encouraged to expand on the project and clean up the
 presentation if you are motivated. A little extra work can make a
 great project to show off on your resume.
 
-### Due Dates:
-* SDPD traffic stops Tableau project (Due 10/23)
-* Favorite of the "why did it happen?" (Due 11/20)
-* SDPD traffic stops final project (Due 12/06)
-
-## Reading journals
-Each week, at least 24 hours before the start of the Thursday class,
-you must write me a paragraph or two about the weekly reading and send
-it via a private note in Piazza. The goal of this
-is to have a more in-depth conversation than our class time
-allows. Think of these journals more as emails to discuss something
-you read with a colleague than as a formal essay.
-
-The topic is up to you, but examples include:
-
-* Relating a topic in the reading to something in your life or in the news,
-* Asking a thoughtful question about the reading, or
-* Picking a quote from the reading that you agree or disagree with and explaining why.
-
-I may bring up what you write to me in class unless you explicitly ask
-me in that email not to.
-
-## Materials
+## Schedule
 
 Week | Section | Topic
 --- | --- | ---
@@ -99,7 +77,33 @@ Week | Section | Topic
 
 There are loosely related readings scheduled concurrently with the
 projects, intended to get you thinking about larger issues in data
-science. These are found in the `readings.md` file in each project.
+science. These are found in the `readings.md` file in each project. A
+journal response to the readings are due six days after starting a
+module (one per line of the schedule) -- i.e. 24 hours before every
+Thursday class.
+
+## Reading journals
+Each week, at least 24 hours before the start of the Thursday class,
+you must write me a paragraph or two about the weekly reading and send
+it via a private note in Piazza. The goal of this
+is to have a more in-depth conversation than our class time
+allows. Think of these journals more as emails to discuss something
+you read with a colleague than as a formal essay.
+
+The topic is up to you, but examples include:
+
+* Relating a topic in the reading to something in your life or in the news,
+* Asking a thoughtful question about the reading, or
+* Picking a quote from the reading that you agree or disagree with and explaining why.
+
+I may bring up what you write to me in class unless you explicitly ask
+me in that email not to.
+
+## Project due dates:
+* SDPD traffic stops Tableau project (Due 10/23)
+* Favorite of the "why did it happen?" (Due 11/20)
+* SDPD traffic stops final project (Due 12/06)
+
 
 ## Assessments and grades
 This class is graded on a Pass/Not Pass scale.  Your course grade consists of the following components:
