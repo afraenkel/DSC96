@@ -14,7 +14,8 @@ Rough Draft. Created with / Forked from Colin Jemmott.
 * [**Piazza**](https://piazza.com/class/jmln0hy1vgr1mz)
 * [**Github**](https://github.com/afraenkel/DSC96/)
 * [**Tableau Online**](https://online.tableau.com/#/signin)
-* [Current course website](https://sites.google.com/eng.ucsd.edu/cse-91-fall-2018-c00/syllabus?authuser=0)
+* [**JupyterHub Server**](https://jupyterhub.ucsd.edu)
+* [**Current course website**](https://sites.google.com/eng.ucsd.edu/cse-91-fall-2018-c00/syllabus?authuser=0)
 
 
 ## Description
@@ -48,7 +49,7 @@ on the projects and see how much you can do!).  There is significant
 reading outside of class, and it is important to keep up with the
 reading because of the limited formal instruction during class time.
 
-## PROJECTS
+## Projects
 Projects are worked on during class and must be turned in to the
 instructor via email by the due date below.  Please include "[CSE 91
 Fa18 Project]" in the subject line and attach Tableau workbook or
@@ -58,9 +59,9 @@ presentation if you are motivated. A little extra work can make a
 great project to show off on your resume.
 
 ### Due Dates:
-SDPD traffic stops Tableau project (Due 10/23)
-Favorite of the "why did it happen?" (Due 11/20)
-SDPD traffic stops final project (Due 12/06)
+* SDPD traffic stops Tableau project (Due 10/23)
+* Favorite of the "why did it happen?" (Due 11/20)
+* SDPD traffic stops final project (Due 12/06)
 
 ## Reading journals
 Each week, at least 24 hours before the start of the Thursday class,
