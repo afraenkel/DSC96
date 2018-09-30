@@ -14,7 +14,7 @@ By the end of this week you will be able to:
 look every time you start to work with a new type of data.  A good
 example is 
 [Falsehoods programmers believe about time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time),
-which starts with "There are always 24 hours in a day.
+which starts with "There are always 24 hours in a day."
 
 [Guide to messy data for journalists](https://qz.com/572338/the-quartz-guide-to-bad-data/)
 contains a good checklist for questioning the quality of a dataset.
