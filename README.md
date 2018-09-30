@@ -58,6 +58,11 @@ of class, but are encouraged to expand on the project and clean up the
 presentation if you are motivated. A little extra work can make a
 great project to show off on your resume.
 
+### Project due dates:
+* SDPD traffic stops Tableau project (Due 10/23)
+* Favorite of the "why did it happen?" (Due 11/20)
+* SDPD traffic stops final project (Due 12/06)
+
 ## Schedule
 
 Week | Section | Topic
@@ -82,7 +87,7 @@ journal response to the readings are due six days after starting a
 module (one per line of the schedule) -- i.e. 24 hours before every
 Thursday class.
 
-## Reading journals
+### Reading journals
 Each week, at least 24 hours before the start of the Thursday class,
 you must write me a paragraph or two about the weekly reading and send
 it via a private note in Piazza. The goal of this
@@ -98,12 +103,6 @@ The topic is up to you, but examples include:
 
 I may bring up what you write to me in class unless you explicitly ask
 me in that email not to.
-
-## Project due dates:
-* SDPD traffic stops Tableau project (Due 10/23)
-* Favorite of the "why did it happen?" (Due 11/20)
-* SDPD traffic stops final project (Due 12/06)
-
 
 ## Assessments and grades
 This class is graded on a Pass/Not Pass scale.  Your course grade consists of the following components:
