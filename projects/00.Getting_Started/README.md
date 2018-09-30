@@ -39,6 +39,6 @@ event. When might you need other data?
 * Tableau official training: https://www.tableau.com/learn
 * Tableau examples with Titanic data: https://public.tableau.com/search/all/titanic
 
-## Related Readings
+## Assigned Readings
 
 See [readings](readings.md)

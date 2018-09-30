@@ -21,6 +21,6 @@ contains a good checklist for questioning the quality of a dataset.
 
 [The Stanford Open Policing Project](https://openpolicing.stanford.edu/) has data, tutorials, and links to some of the best work data scientists are doing with police data.  Thanks to Jan Overgoor from that group for helping with resources for how to approach the SDPD data.
 
-## Related Readings
+## Assigned Readings
 
 See [readings](readings.md)
