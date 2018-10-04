@@ -1,6 +1,10 @@
 # Week 2: Data is Messy
 
-This project uses the San Diego Police Department 2016 traffic stop data.  The city makes a bunch of interesting data available at https://data.sandiego.gov/
+This project uses the San Diego Police Department 2016 traffic stop
+data (see
+[https://data.sandiego.gov/datasets/police-vehicle-stops/](https://data.sandiego.gov/datasets/police-vehicle-stops/)). The city
+makes a bunch of interesting data available at
+[https://data.sandiego.gov](https://data.sandiego.gov).
 
 By the end of this week you will be able to:
 
