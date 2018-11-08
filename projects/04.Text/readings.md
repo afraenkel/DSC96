@@ -6,9 +6,9 @@ The following articles explore a popular method of processing english
 text (the word2vec algorithm) and how it encodes societal biases of
 the training data.
 
-    - [Introduction to word embeddings](https://www.technologyreview.com/s/519581/how-google-converted-language-translation-into-a-problem-of-vector-space-mathematics/)
-    - [Gender bias in word embeddings](https://www.technologyreview.com/s/602025/how-vector-space-mathematics-reveals-the-hidden-sexism-in-language/)
-    - [Using bias in word embeddings for historical analyses](https://arxiv.org/pdf/1711.08412.pdf)
+- [Introduction to word embeddings](https://www.technologyreview.com/s/519581/how-google-converted-language-translation-into-a-problem-of-vector-space-mathematics/)
+- [Gender bias in word embeddings](https://www.technologyreview.com/s/602025/how-vector-space-mathematics-reveals-the-hidden-sexism-in-language/)
+- [Using bias in word embeddings for historical analyses](https://arxiv.org/pdf/1711.08412.pdf)
 
 2. Ethics Case Studies
 
