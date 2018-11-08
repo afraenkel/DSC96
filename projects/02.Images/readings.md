@@ -11,3 +11,7 @@ while no content is 'rated R', some illustrations have content related
 to terrorism, as well as offensive photos related to body-image.
 
 http://blackhat.com/presentations/bh-dc-08/Krawetz/Whitepaper/bh-dc-08-krawetz-WP.pdf
+
+An exploration into predicting the gender of a face.
+
+http://gendershades.org/index.html
