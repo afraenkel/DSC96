@@ -1,8 +1,8 @@
 ### Recidivism Report. 
 
-Either of the following: 
-    * https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
-    * https://www.themarshallproject.org/2015/08/04/the-new-science-of-sentencing
+Either of the following:
+* https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+* https://www.themarshallproject.org/2015/08/04/the-new-science-of-sentencing
 
 ### Reliance of statistics by the media
 
